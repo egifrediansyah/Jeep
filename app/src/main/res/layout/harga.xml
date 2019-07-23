@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+<LinearLayout
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/bg1">
+
+<android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        app:cardBackgroundColor="@color/cardview_dark_background"
+        android:layout_margin="10dp"
+        app:cardCornerRadius="10dp">
+    <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="200dp">
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/jeepcheroke7"
+                android:scaleType="fitXY"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="JEEP®CHEROKEE"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginStart="10dp"
+                android:textSize="35sp"
+                android:textColor="@android:color/white"
+                android:fontFamily="sans-serif-black"
+                android:textStyle="bold|italic"/>
+    </RelativeLayout>
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="200dp">
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textStyle="italic"
+                android:layout_marginHorizontal="@dimen/cardview_compat_inset_shadow"
+                android:text="Harga Jeep Cherokee"
+                android:fontFamily="sans-serif-black"
+                android:textSize="25sp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                android:text="@string/hargajeepcherokee"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                android:text="@string/hargajeepcherokee2"/>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
+<android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            app:cardBackgroundColor="@color/cardview_dark_background"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="10dp">
+        <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="200dp">
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/jeepgrandcherokee3"
+                    android:scaleType="fitXY"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="JEEP®Grand Cherokee"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
+                    android:textSize="35sp"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="sans-serif-black"
+                    android:textStyle="bold|italic"/>
+        </RelativeLayout>
+        <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="200dp">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textStyle="italic"
+                    android:layout_marginHorizontal="@dimen/cardview_compat_inset_shadow"
+                    android:text="Harga Jeep Grand Cherokee"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="25sp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="15dp"
+                    android:text="@string/hargagrandcherokee"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="15dp"
+                    android:text="@string/hargagrandcherokee2"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+<android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            app:cardBackgroundColor="@color/cardview_dark_background"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="10dp">
+        <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="200dp">
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/jeeprenegade4"
+                    android:scaleType="fitXY"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="JEEP®Renegade"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
+                    android:textSize="35sp"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="sans-serif-black"
+                    android:textStyle="bold|italic"/>
+        </RelativeLayout>
+        <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="200dp">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textStyle="italic"
+                    android:layout_marginHorizontal="@dimen/cardview_compat_inset_shadow"
+                    android:text="Harga Jeep Renegade"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="25sp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="15dp"
+                    android:text="@string/hargajeepgrenegade"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="15dp"
+                    android:text="@string/hargajeepgrenegade2"/>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+<android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            app:cardBackgroundColor="@color/cardview_dark_background"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="10dp">
+        <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="200dp">
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/jeepcompass13"
+                    android:scaleType="fitXY"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="JEEP®New Compass"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
+                    android:textSize="35sp"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="sans-serif-black"
+                    android:textStyle="bold|italic"/>
+        </RelativeLayout>
+        <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="200dp">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textStyle="italic"
+                    android:layout_marginHorizontal="@dimen/cardview_compat_inset_shadow"
+                    android:text="Harga Jeep Compass"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="25sp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="15dp"
+                    android:text="@string/hargajeepgcompass"/>
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+<android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="370dp"
+            app:cardBackgroundColor="@color/cardview_dark_background"
+            android:layout_margin="10dp"
+            app:cardCornerRadius="10dp">
+        <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="200dp">
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/jeepwrangler11"
+                    android:scaleType="fitXY"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="JEEP®New Wrangler Unlimited"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
+                    android:textSize="35sp"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="sans-serif-black"
+                    android:textStyle="bold|italic"/>
+        </RelativeLayout>
+        <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="200dp">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textStyle="italic"
+                    android:layout_marginHorizontal="@dimen/cardview_compat_inset_shadow"
+                    android:text="Harga Jeep Wrangler Unlimited"
+                    android:fontFamily="sans-serif-black"
+                    android:textSize="25sp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:textSize="15dp"
+                    android:text="@string/hargajeepwrangler"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:textSize="15dp"
+                    android:text="@string/hargajeepwrangler2"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:textSize="15dp"
+                    android:text="@string/hargajeepwrangler3"/>
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+
+</LinearLayout>
+</ScrollView>

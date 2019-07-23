@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/bg1">
+
+
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="250dp"
+                    android:src="@drawable/sejarah"
+                    android:scaleType="fitXY"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="JEEP®"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
+                    android:textSize="35sp"
+                    android:textColor="@android:color/white"
+                    android:fontFamily="sans-serif-black"
+                    android:textStyle="bold|italic"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textStyle="italic"
+                android:layout_marginHorizontal="@dimen/cardview_compat_inset_shadow"
+                android:text="Sejarah Jeep"
+                android:fontFamily="sans-serif-black"
+                android:textSize="25sp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="176dp"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:text="@string/sejarah"/>
+
+</LinearLayout>

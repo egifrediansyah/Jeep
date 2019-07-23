@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Jeep</string>
+
+    <string name="title1">Jeep Wrangler Rubicon</string>
+    <string name="title2">Jeep Compass</string>
+    <string name="title3">Jeep Renegade</string>
+
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+
+    <string name="deskripsiR">"All New Jeep Renegade adalah salah satu mobil asal Amerika. Renegade mengusung tipe SUV atau dikenal dengan Sport Utility Vehicle. Ini artinya All New Jeep Renegade dapat dikendarai disegala suasana. All New Jeep Renegade mengusung tipe mobil berbadan super besar"</string>
+    <string name="deskripsiC">"Mobil yang diklaim memiliki perfoma lebih apik dibandingkan dengan Volkswagen Tiguan yang notabene merupakan rival mereka dikelas ini. Perfoma mesinnya juga terbilang irit dan lebih irit juga dibandingkan dengan VW Tiguan."</string>
+    <string name="deskripsiRU">“All New Jeep Wrangler dibangun sesuai dengan estetika dan desain legendaris dari Jeep. Sebagai bentuk penghormatan pada lintas generasi, All New Jeep Wrangler kali ini hadir dengan bentuk eksterior yang lebih tebal dan gagah. Lebar, beltline body yang lebih rendah dengan bentuk jendela lebar untuk visibilitas yang lebih baik,”</string>
+
+
+    <string name="sejarah">Tepat 15 Juli lalu Jeep merayakan ulang tahun ke-75. Merek legendaris Amerika Serikat (AS) ini pertama kali lahir sebagai Willys-Overland Motor yang ditugasi membangun MB Willys. Ikon mobil tempur era Perang Dunia II ini menampilkan edisi spesial yaitu Wrangler 75th Salute sebagai versi modern Willys MB. Edisi ini mengambil basis Wrangler Sport dengan mesin V6 3,6 liter dengan kelir hijau dan velg kaleng.wal mula istilah Jeep berasal dari penyebutan akronim GP dengan kepanjangan general purpose. Nama GP aslinya bukan permintaan angkatan darat AS, melainkan Light Reconnaissance And Command Car (LRACC). Mobil ini disebut juga sebagai L-Rack. Dilansir Forbes, prototipe Jeep pertama kali dikembangkan oleh American Bantam Car Company of Butler dan diuji coba oleh AD di Camp Holabird, Baltimore pada 23 September 1940. AD sebelumnya memesan kendaraan tempur ringan pengganti Ford Model T pada Juli 1940. Mobil ini diharuskan memiliki spesifikasi daya angkut 272 kilogram, ground clearance kurang dari 914 milimeter, bobotnya 590 kilogram dengan sistem penggerak empat roda. Spesifikasi lainnya yaitu punya tiga kursi dan kaca depan bisa dilipat. Spicer Manufacturing, yang kini dikenal sebagai Dana Corporation yang mengembangkan cikal bakal Jeep modern yang disukai kalangan sipil maupun militer untuk American Bantam. Ford kalah tender meskipun telah menawarkan Ford Pilot Model GP. Desain GP juga mengalami evolusi mulai dari prototipe hingga versi produksi. Pada awalnya di 1940, kisi-kisi grill mobil tersebut berjumlah 13 bilah, berganti jadi sembilan bilah pada konsep produksi perdana 1941 hingga akhirnya berganti menjadi tujuh bilah pada 1945 sampai saat ini. Jeep Adapun Willys Overland baru menjual GP alias Jeep pada 1944 sebagai CJ atau Civilian Jeep. Willys Overland menambahkan lampu belakang dan melucuti segala perlengkapan militer. Perusahaan ini kemudian dijual ke Kaiser Motor pada 1953 dan memperpendek namanya sebagai Willys, berganti nama lagi sebagai Willys-Jeep dan akhirnya hanya Jeep. Merek ini kembali dijual pada 1970 ke American Motor Co di mana perusahaan ini kemudian menjalin kemitraan dengan Renault pada 1980. AMC juga tidak bisa bertahan lama karena diakuisisi oleh Chrysler. Cikal bakal GP atau Jeep garapan Ford pada 1940 hanya terdapat dua unit yang tersisa hingga saat ini. Ford Pilot Model GP No. 1 dengan sebutan Pygmy dipajang di U.S. Veterans Memorial Museum, Huntsville, Alabama.</string>
+
+    <!--Jeep Wrangler Unlimited-->
+    <string name="kemudijeepwrangler">Jenis Kemudi Power,Kolom kemudi Tilt dan Telescopic,Steering Gear Type Rack dan Pinion,Radius putar 6.5m,Pengaturan Posisi Stir Ya .</string>
+    <string name="velgdanbanjeepwrangler">Ukuran Velg Alloy 16 Inch,Ukuran Ban 245/75 R16,Jenis Ban Radial,Ukuran Velg R17.</string>
+    <string name="detilmesinjeepwrangler">Jumlah Silinder 6,Katup per Silinder 4,Konfigurasi Katup DOHC,Sistem Suplai Bahan Bakar MPFI.</string>
+    <string name="transmisijeepwrangler">Girboks 5-Speed,Jenis penggerak AWD,Jenis Transmisi Otomatis.</string>
+    <string name="suspensijeepwrangler">Suspensi Depan 	Multi-Link,Suspensi Belakang Multi-Link.</string>
+    <string name="kapasitasjeepwrangler">Kapasitas Tempat Duduk 5 Kursi,Kapasitas Bagasi 498L,Kapasitas Tangki Bahan Bakar (liter) 85L,Panjang 4751mm,Lebar 1877mm,Ground Clearance 220mm,Tinggi 1865mm,Jarak Sumbu Roda 2947mm,Jarak pijak roda depan 1572mm,Jarak pijak roda belakang 1572mm,Ruang Kepala Belakang 1059mm,Ruang Kaki Belakang 921mm.</string>
+    <string name="performajeepwrangler">Kapasitas mesin 1368cc,Tenaga 162hp,Jenis Bahan Bakar Bensin,Torsi 250Nm,Kecepatan maksimum 195 kmph,akselerasi 9.5s.</string>
+    <string name="kenyamanjeepwrangler">AC,Power Window Depan,Power Window - Belakang,Power steering,Pemanas,Ventilasi AC Belakang,Adjustable Seats,Kursi Pengemudi Dengan Penyesuai Ketinggian,Power Outlet,Lingkar kemudi Dengan Tombol Multi Fungsi,Kursi Lipat Belakang,Pembuka Bagasi,Lampu Pengingat Jumlah Bahan Bakar,Headrest Kursi Belakang,Cup Holder - depan,Bottle Holder,Vanity Mirror.</string>
+    <string name="lainlainjeepwrangler">Tachometer,Electronic Multi Tripmeter,Jok Dilapis Kulit,Lapisan berbahan kain,Stir Berbalut kulit,Jam Digital,Temperatur Udara Luar,Odometer Digital,Pengaturan kursi elektrik,Tanki Bahan Bakar Diletakkan di Tengah Euro 5,Sistem pengatur gas buang Hill Start Assist ,Fitur Keselamatan Canggih,Standar Emisi Euro 5,Jenis Lampu Depan Halogen.</string>
+    <string name="hiburandankomunikasijeepwrangler">Layar Sentuh,Radio AM/FM,Sistem Navigasi,Sambungan Bluetooth,Pemutar CD,Soket USB,Pemutar DVD,Speaker depan,Speaker belakang,Audio 2DIN.</string>
+    <string name="keselamatanjeepwrangler">Airbag Penumpang Depan,Airbag Samping Depan,Child Safety Locks,Kantong Udara Pengemudi,Anti Lock Braking System,Brake Assist,EBD (Electronic Brake Distribution),Vehicle Stability Control System,Sabuk Pengaman Belakang,Pengingat Pemakaian Sabuk Pengaman,Sabuk Pengaman Depan dengan Penyesuai ketinggi,Crash Sensor,Engine Check Warning,Pengukur Tekanan Ban,Pelindung Benturan Depan,Pelindung Benturan Samping,Pengingat Pintu Terbuka,Kontrol Traksi.</string>
+    <string name="eksteriorjeepwrangler">Adjustable Headlights,Lampu Kabut Depan,Kaca spion luar manual,Velg alloy,Antena elektrik,Tinted Glass,Atap Convertible Dapat Dilipat,Pijakan Samping,Tuas Pembuka Tutup Bensin,Jenis Rem Depan Ventilated Discs,Jenis Rem Belakang Ventilated Discs.</string>
+    <string name="fiturejeepwrangler">SUV terbaru dari Jeep, Wrangler Unlimited, hadir dengan 3 varian. Varian tertinggi hadir dengan mesin Petrol 2997 cc, yang mampu menghasilkan tenaga hingga 231 hp dan torsi puncak 285 Nm. Wrangler Unlimited Rubicon 4x4 berkapasitas 5-penupang dibekali juga dengan transmisi 5-Speed Automatic. Sistem keamanannya dibekali Anti Theft Device Dan Anti-Theft Alarm.</string>
+
+    <string name="hargajeepwrangler">Jeep Wrangler Unlimited Sport 4x4 	  : Rp919 Juta</string>
+    <string name="hargajeepwrangler2">Jeep Wrangler Unlimited Sahara 4x4  : Rp1,03 Milyar</string>
+    <string name="hargajeepwrangler3">Jeep Wrangler Unlimited Rubicon 4x4 : Rp1,1 Milyar</string>
+    <!--Jeep Wrangler Unlimited-->
+
+    <!--Jeep Compass-->
+    <string name="kemudijeepgcompass">Jenis Kemudi Power,Kolom kemudi Adjustable,Steering Gear Type Rack Dan Pinion,Pengaturan Posisi Stir Ya.</string>
+    <string name="velgdanbanjeepgcompass">Ukuran Velg Alloy 17 Inch,Ukuran Ban 225/60 R17,Jenis Ban Radial,Ukuran Velg R17.</string>
+    <string name="detilmesinjeepgcompass">Jumlah Silinder 4,Katup per Silinder 4,Konfigurasi Katup DOHC,Mesin 1.4L MultiAir Turbo Petrol Engine,4 Cylinder 16 Valve DOHC.</string>
+    <string name="transmisijeepgcompass">Girboks 7-Speed,Jenis Transmisi Otomatis,Jenis penggerak FWD.</string>
+    <string name="suspensijeepgcompass">Suspensi Depan Coil Spring,Suspensi Belakang Coil Spring.</string>
+    <string name="kapasitasjeepgcompass">Kapasitas Tempat Duduk 5 Kursi,Kapasitas Tangki Bahan Bakar (liter) 60L,Panjang 4394mm,Ground Clearance 198mm,Lebar 1819mm,Tinggi 1635mm,Jarak Sumbu Roda 2636mm,Jarak pijak roda depan 1543mm,Jumlah Pintu 5.</string>
+    <string name="performajeepgcompass">Kapasitas mesin 1368cc,Tenaga 162hp,Jenis Bahan Bakar Bensin,Torsi 250Nm,Kecepatan maksimum 195 kmph,akselerasi 9.5s.</string>
+    <string name="kenyamanjeepgcompass">AC,Power Window Depan,Power Window - Belakang,Automatic Climate Control,Air Quality Control,Power steering,Pemanas,Engine Start Stop Button,Adjustable Seats,Kursi Pengemudi Dengan Penyesuai Ketinggian,On Board Computer,Spion Lipat Elektrik,Automatic Head Lamps,Power Outlet,Lingkar kemudi Dengan Tombol Multi Fungsi,Kursi Lipat Belakang,Pembuka Bagasi,Lampu Pengingat Jumlah Bahan Bakar,Headrest Kursi Belakang,Arm Rest Belakang Tengah,Cup Holder - depan,Cup Holder - belakang,Bottle Holder,Vanity Mirror,Keyless Entry,Arm Rest Konsol Tengah.</string>
+    <string name="lainlainjeepgcompass">Tachometer,Electronic Multi Tripmeter,Jok Dilapis Kulit,Jok Dilapis Kulit,Odometer Digital,Tanki Bahan Bakar Diletakkan di Tengah,Jenis Lampu Depan LED.</string>
+    <string name="hiburandankomunikasijeepgcompass">Layar Sentuh,Radio AM/FM,Sambungan Bluetooth,Pemutar CD,Soket USB,Speaker depan,Speaker belakang,Audio 2DIN,Perintah Suara,Apple CarPlay, Android Auto Support</string>
+    <string name="keselamatanjeepgcompass">Airbag Penumpang Depan,Airbag Samping Depan,Child Safety Locks,Kantong Udara Pengemudi,Anti Lock Braking System,Brake Assist,EBD (Electronic Brake Distribution),Vehicle Stability Control System,Sabuk Pengaman Belakang,Pengingat Pemakaian Sabuk Pengaman,Spion Tengah Lipat,Kamera Belakang,Crash Sensor,Engine Check Warning,Pengukur Tekanan Ban,Pelindung Benturan Depan,Pelindung Benturan Samping,Pengingat Pintu Terbuka,Kontrol Traksi.</string>
+    <string name="eksteriorjeepgcompass">Adjustable Headlights,Lampu Kabut Depan,Kaca spion elektrik,wiper otomatis,Wiper Kaca Belakang,Defogger Kaca Belakang,Velg alloy,Spoiler Belakang,Lampu sein kaca Spion Luar,Antena Terpadu,Tuas Pembuka Tutup Bensin,Jenis Rem Depan Discs,Jenis Rem Belakang Discs.</string>
+    <string name="fiturejeepgcompass">SUV terbaru dari Jeep, Compass, hadir dengan 1 varian. Varian tertinggi hadir dengan mesin Petrol 1368 cc, yang mampu menghasilkan tenaga hingga 162 hp dan torsi puncak 250 Nm. Compass Longitude berkapasitas 5-penupang dibekali juga dengan transmisi 7-Speed Automatic. Sistem keamanannya dibekali Central Locking Dan Power Door Locks.</string>
+
+    <string name="hargajeepgcompass">Jeep Compass Longitude :Rp539 Juta</string>
+    <!--Jeep Compass-->
+
+    <!--JEEPRENAGE-->
+    <string name="kemudijeepgrenegade">Jenis Kemudi Power,Kolom kemudi Adjustable,Steering Gear Type Rack Dan Pinion,Pengaturan Posisi Stir Ya.</string>
+    <string name="velgdanbanjeepgrenegade">Ukuran Velg Alloy 17Inch,Ukuran Ban 215/60 R17,Jenis Ban Radial,Ukuran Velg R17.</string>
+    <string name="detilmesinjeepgrenegade">Jumlah Silinder 4,Katup per Silinder 4,Konfigurasi Katup DOHC,Sistem Suplai Bahan Bakar EFI.</string>
+    <string name="transmisijeepgrenegade">Girboks 9-Speed,Jenis Transmisi Otomatis,Jenis penggerak 4WD.</string>
+    <string name="suspensijeepgrenegade">Suspensi Depan MacPherson Strut,Suspensi Belakang 	Multi-Link.</string>
+    <string name="kapasitasjeepgrenegade">Kapasitas Tempat Duduk 5 Kursi,Kapasitas Bagasi 351L,Panjang 4237mm,Ground Clearance 175mm,Lebar 1806mm,Tinggi 1666mm,Jarak Sumbu Roda 2750mm,Jarak pijak roda depan 1542mm,Jarak pijak roda belakang 1542mm,Jumlah Pintu 5.</string>
+    <string name="performajeepgrenegade">Kapasitas mesin 1368cc,Tenaga 160hp,Jenis Bahan Bakar Bensin,Kecepatan maksimum 196kmph,akselerasi 8.8s,Konsumsi BBM Tol 20,Konsumsi BBM dalam kota (kmpl) 11.36,Torsi 249Nm.</string>
+    <string name="kenyamanjeepgrenegade">AC,Power steering,Pemanas,Ventilasi AC Belakang,Engine Start Stop Button,Adjustable Seats,Kursi Pengemudi Dengan Penyesuai Ketinggian,On Board Computer,Automatic Head Lamps,Power Outlet,Kursi Lipat Belakang,Pembuka Bagasi,Lampu Pengingat Jumlah Bahan Bakar,Headrest Kursi Belakang,Cup Holder - depan,Keyless Entry.</string>
+    <string name="lainlainjeepgrenegade">Tachometer,Lapisan berbahan kain,Odometer Digital,Tanki Bahan Bakar Diletakkan di Tengah,Jenis Lampu Depan Halogen.</string>
+    <string name="hiburandankomunikasijeepgrenegade">Layar Sentuh,Radio AM/FM,Sambungan Bluetooth,Pemutar CD,Soket USB,Pemutar DVD,Speaker depan,Audio 2DIN</string>
+    <string name="keselamatanjeepgrenegade">Child Safety Locks,Sabuk Pengaman Belakang,Pengingat Pemakaian Sabuk Pengaman,Sabuk Pengaman Depan dengan Penyesuai ketinggi,Pelindung Benturan Depan,Pelindung Benturan Samping,Pengingat Pintu Terbuka.</string>
+    <string name="eksteriorjeepgrenegade">Adjustable Headlights,Kaca spion luar manual,Wiper Kaca Belakang,Washer Kaca Belakang,Velg alloy,Antena Terpadu,Tuas Pembuka Tutup Bensin,Jenis Rem Belakang Discs,Jenis Rem Depan Ventilated Discs.</string>
+    <string name="fiturejeepgrenegade">Renegade ditawarkan dengan banyak fitur di setiap varian, sehingga membuatnya kompeten di segmen SUV. MEntenagai Renegade LIMITED adalah mesin 1368 cc yang menghasilkan 160 hp dengan torsi maksimum 249 Nm. Varian tertinggi Renegade terbilang efisien dengan konsumsi BBM 11.36 kmpl untuk di dalam kota, dan 20 kmpl di jalan tol</string>
+
+    <string name="hargajeepgrenegade">Jeep Renegade LONGITUDE :Rp599 Juta</string>
+    <string name="hargajeepgrenegade2">Jeep Renegade LIMITED  :Rp699 Juta</string>
+    <!--JEEPRENAGE-->
+
+    <!--JEEPGRANDCHEROKE-->
+    <string name="kemudijeepgrandcheroke">Jenis Kemudi Power,Kolom kemudi Tilt Dan Telescopic,Steering Gear Type Rack Dan Pinion,Radius putar 5.8m,Pengaturan Posisi Stir Ya.</string>
+    <string name="velgdanbanjeepgrandcheroke">Ukuran Velg Alloy 20Inch,Ukuran Ban 265/50 R20,Jenis Ban Radial,Ukuran Velg R20.</string>
+    <string name="detilmesinjeepgrandcheroke">Jumlah Silinder 6,Katup per Silinder 4,Konfigurasi Katup DOHC,Sistem Suplai Bahan Bakar MPFI.</string>
+    <string name="transmisijeepgrandcheroke">Girboks 8-Speed,Jenis Transmisi Otomatis,Jenis penggerak AWD.</string>
+    <string name="suspensijeepgrandcheroke">Suspensi Depan Air Suspension,Suspensi Belakang Multi-Link.</string>
+    <string name="kapasitasjeepgrandcheroke">Kapasitas Tempat Duduk 5 Kursi,Kapasitas Bagasi 457L,Kapasitas Tangki Bahan Bakar (liter) 93L,Panjang 	4828mm,Ground Clearance 215 mm,Ground Clearance 215mm,Tinggi 1802mm,Jarak Sumbu Roda 2915mm,Jarak pijak roda depan 1623mm,Jarak pijak roda belakang 1627mm,Jumlah Pintu 5,Ruang Kepala Depan 1013 mm,Ruang Kaki Depan 1025mm,Ruang Kepala Belakang 995mm,Ruang Kaki Belakang 985mm.</string>
+    <string name="performajeepgrandcheroke">Kapasitas mesin 3604cc,Tenaga 286hp,Torsi 347Nm,Konsumsi BBM Tol 10.2,Jenis Bahan Bakar Bensin,Konsumsi BBM dalam kota (kmpl) 7.2.</string>
+    <string name="kenyamanjeepgrandcheroke">AC,Power Window Depan,Power Window- Belakang,Automatic Climate Control,Air Quality Control,Pemanas,Power steering,Ventilasi AC Belakang,Glove Box dengan Pendingin,Engine Start Stop Button,Adjustable Seats,Kursi Pengemudi Dengan Penyesuai Ketinggian,Kursi dengan Heater - Depan,Kursi dengan Heater - Belakang,On Board Computer,Spion Lipat Elektrik,Automatic Head Lamps,Steering Wheel Gearshift Paddle,Power Outlet,Lingkar kemudi Dengan Tombol Multi Fungsi,Cruise control,Kursi Lipat Belakang,Pembuka Bagasi,Lampu Pengingat Jumlah Bahan Bakar,Lampu baca,Headrest Kursi Belakang,Arm Rest Belakang Tengah,Cup Holder - depan,Cup Holder - belakang,Lumbar support,Bottle Holder,Lampu Bagasi,Vanity Mirror,Meja Lipat Belakang,Keyless Entry.</string>
+    <string name="lainlainjeepgrandcheroke">Tachometer,Electronic Multi Tripmeter,Jok Dilapis Kulit,Lapisan berbahan kain,Stir Berbalut kulit,Jam DigitalTemperatur Udara Luar,Odometer Digital,Pengaturan kursi elektrik,Mode Berkendara Eco,Tanki Bahan Bakar Diletakkan di Tengah,Sistem pengatur gas buang EURO IV,Fitur Keselamatan Canggih Hill Start Assist,Standar Emisi Euro 4,Jenis Lampu Depan Xenon.</string>
+    <string name="hiburandankomunikasijeepgrandcheroke">Layar Sentuh,Radio AM/FM,Sistem Navigasi,Sambungan Bluetooth,Pemutar CD,Soket USB,Pemutar DVD,Speaker depan,Speaker depan,Audio 2DIN,Perintah Suara</string>
+    <string name="keselamatanjeepgrandcheroke">Airbag Penumpang Depan,Airbag Samping Depan,Child Safety Locks,Kantong Udara Pengemudi,Anti Lock Braking System,Brake Assist,EBD (Electronic Brake Distribution),Sabuk Pengaman Belakang,Pengingat Pemakaian Sabuk Pengaman,Spion Tengah Lipat,Sabuk Pengaman Depan dengan Penyesuai ketinggi,Kamera Belakang,Sensor Parkir,Crash Sensor,Engine Check Warning,Pengukur Tekanan Ban,Pelindung Benturan Depan,Pelindung Benturan Samping,Pengingat Pintu Terbuka,Kontrol Traksi.</string>
+    <string name="eksteriorjeepgrandcheroke">Adjustable Headlights,Lampu Kabut Depan,Kaca spion elektrik,wiper otomatis,Wiper Kaca Belakang,Defogger Kaca Belakang,Velg alloy,Antena elektrik,Tinted Glass,Spoiler Belakang,sunroof,Lampu sein kaca Spion Luar,Grille Krom,Roof Rail,Tuas Pembuka Tutup Bensin,Jenis Rem Depan Ventilated Discs,Jenis Rem Belakang Ventilated Discs</string>
+    <string name="fiturejeepgrandcheroke">Grand Cherokee ditawarkan dengan banyak fitur di setiap varian, sehingga membuatnya kompeten di segmen SUV. MEntenagai Grand Cherokee Limited 4x4 adalah mesin 3604 cc yang menghasilkan 286 hp dengan torsi maksimum 347 Nm. Varian tertinggi Grand Cherokee terbilang efisien dengan konsumsi BBM 7.2 kmpl untuk di dalam kota, dan 10.2 kmpl di jalan tol</string>
+
+    <string name="hargagrandcherokee">Jeep Grand Cherokee Overland 4x4 :Rp1,34 Milyar</string>
+    <string name="hargagrandcherokee2">Jeep Grand Cherokee Limited 4x4 :Rp1,41 Milyar</string>
+    <!--JEEPGRANDCHEROKE-->
+
+    <!--JEEPCHEROKE-->
+    <string name="kemudijeepcheroke">Jenis Kemudi Power,Kolom kemudi Tilt Dan Telescopic,Steering Gear Type Rack Dan Pinion,Radius putar 5.8m,Pengaturan Posisi Stir Ya.</string>
+    <string name="velgdanbanjeepcheroke">Ukuran Velg Alloy 17Inch,Ukuran Ban 245/65 R17,Jenis Ban Radial,Ukuran Velg R17</string>
+    <string name="detilmesinjeepcheroke">Jumlah Silinder 4,Katup per Silinder 4,Konfigurasi Katup DOHC,Sistem Suplai Bahan Bakar MPFI.</string>
+    <string name="transmisijeepcheroke">Girboks 9-Speed,Jenis Transmisi Otomatis,Jenis penggerak AWD.</string>
+    <string name="suspensijeepcheroke">Suspensi Depan Double Wishbone,Suspensi Belakang Multi-Link.</string>
+    <string name="kapasitasjeepcheroke">Kapasitas Tempat Duduk 5 Kursi,Kapasitas Bagasi 591L,Kapasitas Tangki Bahan Bakar (liter) 60L,Panjang 4624mm,Ground Clearance 224mm,Lebar 1859mm,Tinggi 1723mm,Jarak Sumbu Roda 2719mm,Jarak pijak roda depan 1613mm,Jarak pijak roda belakang 1613mm,Jumlah Pintu 5,Ruang Kepala Depan 1000mm,Ruang Kaki Depan 1045mm,Ruang Kepala Belakang 978mm,Ruang Kaki Belakang 1023mm.</string>
+    <string name="performajeepcheroke">Kapasitas mesin 2360 cc,Tenaga 183 hp,Torsi 232 Nm,Konsumsi BBM Tol 12.3,Konsumsi BBM dalam kota(kmpl)9.3,Jenis Bahan Bakar Bensin</string>
+    <string name="kenyamanjeepcheroke">AC,Power Window Depan,Power Window- Belakang,Automatic Climate Control,Air Quality Control,Pemanas,Power steering,Ventilasi AC Belakang,Glove Box dengan Pendingin,Engine Start Stop Button,Adjustable Seats,Kursi Pengemudi Dengan Penyesuai Ketinggian,Kursi dengan Heater - Depan,Kursi dengan Heater - Belakang,On Board Computer,Spion Lipat Elektrik,Automatic Head Lamps,Steering Wheel Gearshift Paddle,Power Outlet,Lingkar kemudi Dengan Tombol Multi Fungsi,Cruise control,Kursi Lipat Belakang,Pembuka Bagasi,Lampu Pengingat Jumlah Bahan Bakar,Lampu baca,Headrest Kursi Belakang,Arm Rest Belakang Tengah,Cup Holder - depan,Cup Holder - belakang,Lumbar support,Bottle Holder,Lampu Bagasi,Vanity Mirror,Keyless Entry.</string>
+    <string name="lainlainjeepcheroke">Tachometer,Electronic Multi Tripmeter,Jok Dilapis Kulit,Stir Berbalut kulit,Jam Digital,Temperatur Udara Luar,Odometer Digital,Pengaturan kursi elektrik,Mode Berkendara Eco,Tanki Bahan Bakar Diletakkan di Tengah,Sistem pengatur gas buang,Fitur Keselamatan Canggih,Jenis Lampu Depan,Standar Emisi.</string>
+    <string name="hiburandankomunikasijeepcheroke">Layar Sentuh,Radio AM/FM,Sistem Navigasi,Sambungan Bluetooth,Soket USB,Pemutar CD,Pemutar DVD,Speaker depan,Speaker belakang,Audio 2DIN,Perintah Suara.</string>
+    <string name="keselamatanjeepcheroke">Airbag Penumpang Depan,Airbag Samping Depan,Kantong Udara Pengemudi,Child Safety Locks,Anti Lock Braking System,Brake Assist,EBD (Electronic Brake Distribution),Vehicle Stability Control System,Sabuk Pengaman Belakang,Pengingat Pemakaian Sabuk Pengaman,Spion Tengah Lipat,Sabuk Pengaman Depan dengan Penyesuai ketinggian,Kamera Belakang,Sensor Parkir,Crash Sensor,Engine Check Warning,Pengukur Tekanan Ban,Pelindung Benturan Depan,Pelindung Benturan Samping,Pengingat Pintu Terbuka,Kontrol Traksi.</string>
+    <string name="eksteriorjeepcheroke">Adjustable Headlights,Lampu Kabut Depan,Kaca spion elektrik,Kaca spion luar manual,wiper otomatis,Wiper Kaca Belakang,Washer Kaca Belakang,Defogger Kaca Belakang,Velg alloy,Antena elektrik,Tinted Glass,Spoiler Belakang,sunroof,Lampu sein kaca Spion Luar,Grille Krom,Roof Rail,Tuas Pembuka Tutup Bensin,Jenis Rem Depan,Jenis Rem Belakang.</string>
+    <string name="fiturejeepcheroke">Cherokee ditawarkan dengan banyak fitur di setiap varian, sehingga membuatnya kompeten di segmen SUV. MEntenagai,Cherokee Limited AWD adalah mesin 2360 cc yang menghasilkan 183 hp dengan torsi maksimum 232 Nm. Varian tertinggi Cherokee terbilang efisien dengan konsumsi BBM 9.3 kmpl untuk di dalam kota, dan 12.3 kmpl di jalan tol.</string>
+    
+    <string name="hargajeepcherokee">Jeep Cherokee Trailhawk AWD : Rp999 Juta </string>
+    <string name="hargajeepcherokee2">Jeep Cherokee Limited AWD	 :Rp1,06 Milyar</string>
+    
+    <!--JEEPCHEROKE-->
+</resources>
+
